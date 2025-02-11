@@ -97,9 +97,4 @@ The IPO Web Application will include:
 | Khalid Faisal | khalidfaisal0123@gmail.com | Developer |
 | Movva Deekshitha | deekshithamovva@gmail.com | Developer |
 
-## License
-This project is licensed under the **Bluestock Fintech License**. Unauthorized use, reproduction, or distribution is prohibited.
-
----
-_Clone this repository and start contributing!_
 
