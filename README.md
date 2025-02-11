@@ -10,7 +10,6 @@ This project is for developing an **IPO Web Application** along with a **REST AP
 - [Features](#features)
 - [Project Setup](#project-setup)
 - [Development Guidelines](#development-guidelines)
-- [Task Management](#task-management)
 - [Resources](#resources)
 - [Contributors](#contributors)
 
@@ -74,11 +73,6 @@ The IPO Web Application will include:
 - Test all features rigorously before pushing code.
 - Use **Postman** for API testing.
 
-## Task Management
-- Use **Nomon** for assigning and tracking tasks.
-- Developers must **report daily work status** to the Team Lead.
-- Team Lead should **report progress every 7 days** to Mr. Yash Kale.
-- If any developer needs to change roles, they must obtain permission from the Team Lead.
 
 ## Resources
 - **UI/UX Design**: [Figma Link](https://www.figma.com/design/IyF5MKCS7GP2ChFBOiWXAK/bluestock-fintech-ui-ux-team?node-id=0-1)
