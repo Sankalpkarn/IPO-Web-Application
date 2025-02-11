@@ -44,8 +44,8 @@ The IPO Web Application will include:
 ## Project Setup
 1. **Clone the Repository**
    ```bash
-   git clone <repo-link>
-   cd <repo-folder>
+   git clone <[repo-link>](https://github.com/Sankalpkarn/IPO-Web-Application.git)
+   cd <IPO-Web-Applicatiob>
    ```
 2. **Setup Virtual Environment**
    ```bash
